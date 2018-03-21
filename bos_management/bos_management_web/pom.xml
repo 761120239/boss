@@ -8,4 +8,13 @@
   <artifactId>bos_management_web</artifactId>
   <packaging>war</packaging>
   <description>后台管理的web</description>
+  
+    <dependencies>
+  	<dependency>
+  		<groupId>com.itheima</groupId>
+  		<artifactId>bos_management_service</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+
+    </dependencies>
 </project>

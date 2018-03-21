@@ -5,9 +5,7 @@
     <artifactId>common_parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.itheima</groupId>
   <artifactId>bos_management</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <description>后台管理</description>
   <modules>
