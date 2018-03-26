@@ -15,5 +15,11 @@
   		<artifactId>itheimaUtils</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
-  </dependencies>
+
+  	<dependency>
+  		<groupId>com.itheima</groupId>
+  		<artifactId>bos_management_domain</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+   </dependencies>
 </project>
